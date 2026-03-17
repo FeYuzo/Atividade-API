@@ -1,4 +1,4 @@
-@url = http://localhost:3000/tarefas
+@url = http://localhost:3000/filmes
 GET {{url}}
 
 ###

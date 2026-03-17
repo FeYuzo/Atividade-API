@@ -1,9 +1,9 @@
-GET http://localhost:3000/saudacao/Marco
+GET http://localhost:3000/saudacao/Felipe
 
 ###
 POST http://localhost:3000/saudacao
 Content-Type: application/json
 
 {
-    "nome": "Marco Carvalho"
+    "nome": "Felipe Shida"
 }
